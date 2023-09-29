@@ -80,3 +80,13 @@ h1,
 dt {
 	text-align: center;
 }
+
+.Header-img {
+	height: 50px;
+	width: 50px;
+}
+
+.img-p {
+	width: 420px;
+	height: 320px;
+}
